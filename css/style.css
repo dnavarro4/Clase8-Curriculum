@@ -1,0 +1,90 @@
+/*fuente del body*/
+body{
+    font-family: 'Ubuntu Mono', monospace;
+}
+/*estilos del banner*/
+header{
+    background-color:#e6e6e6;
+    background-image: url('../img/memphis-pattern.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    
+}
+.foto-personal{
+    display: block;
+    margin: auto;
+    width: 200px;
+    border-radius: 100%;
+}
+
+/*estilos de titulos*/
+
+h1{
+    background-color: #c4c4c4;
+    text-align: center;
+    color: #005677;
+    font-weight: 700;
+    font-size: 35px;
+    font-style: normal;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+}
+h2{
+    background-color: #c4c4c4;
+    color: #005677;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 20px;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+}
+
+/*estitos pie de pagina*/
+
+footer{background-color: #005677;
+    text-align: center;
+    color: #ffffff;
+    
+    font-weight: 700px;
+    font-size: 20px;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+}
+
+/*estilos de datos personales*/
+
+span{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*estilos de fechas*/
+.fechas{
+    font-style: normal;
+    font-weight: bold;
+}
+
+/*estilos pie de pagina*/
+
+.batman{
+    font-style: normal;
+}
+
+
+
+/*estilos de lista*/
+
+.viñetas{
+    list-style-type: none;
+}
+
+/*estilos de margenes*/
+
+.margen1{
+    margin-left: 85px;
+}
+.margen2{
+    margin-left: 90px;
+}
